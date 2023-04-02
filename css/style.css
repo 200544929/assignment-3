@@ -1,0 +1,72 @@
+body{
+    background-image: url(../image/wp4985412.jpg);
+    background-position: ;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+HEADER P{
+    font-family: "Avenir LT Pro 55 Roman";
+    color: aliceblue;
+    word-spacing: 5px;
+    letter-spacing: 17px;
+    text-align: center;
+    font-style: italic;
+    margin-top: 24px;
+    font-size: 45px;
+}
+.chapter{
+    text-align: center;
+    margin-top: 520px;
+    font-size: 30px;
+    margin-left: -57px;
+}
+.chapter p{
+    color: rgb(229, 43, 43);
+    font-family: "Avenir LT Pro 55 Roman";
+    
+    display: inline;
+    font-style: italic;
+letter-spacing: 2px;
+}
+.one{
+    margin-top: 2px;
+}
+
+.two{
+    font-size: 250px;
+    color: rgb(229, 43, 43);
+    font-family: "Avenir LT Pro 55 Roman";
+    font-style: italic;
+margin-left: 759px;
+    margin-top: -179px;
+    position: absolute;
+}
+
+p{
+    text-align: center;
+    color: #a7afb6;
+    font-style: italic;
+    font-family: "Avenir LT Pro 55 Roman";
+margin-top: -17px;
+font-size: 50px;
+position: relative;
+word-spacing: 10px;
+letter-spacing: 10px;
+margin-left: 10px;
+}
+
+
+.johnwick{
+    margin-left: 167px
+}
+
+footer {
+    padding: -30px;
+    letter-spacing: 4px;
+    word-spacing: 3px;
+    text-align: center;
+    color: #eceff1;
+    
+}
